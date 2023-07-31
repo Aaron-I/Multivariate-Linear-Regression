@@ -72,7 +72,7 @@ print("Predicted CO2 for the corresponding weight and volume",predictedCO2)
 
 ## Output:
 
-![output](/Screenshot%202023-07-29%20141615.png)
+![output](/Screenshot%202023-07-31%20103632.png)
 ![output](/cars.png)
 
 ## Result
